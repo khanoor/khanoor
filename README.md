@@ -18,3 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanoor&show_icons=true&locale=en&layout=compact" alt="khanoor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanoor&show_icons=true&locale=en" alt="khanoor" /></p>
+
+
+<a href="https://www.buymeacoffee.com/khanoor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
