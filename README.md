@@ -2,8 +2,8 @@
 ![logo](https://github.com/khanoor/khanoor/blob/main/cover-thompson.png)
 <h1 align="center">Hi 👋, I'm a Flutter Developer</h1>
 - 🔭 I’m currently working on Flutter projects
-
 - 💬 Ask me about **Flutter and Firebase.**
+- 👀 I’m interested in programing
 
 
 <p align="left">
